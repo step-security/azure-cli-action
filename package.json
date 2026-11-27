@@ -14,7 +14,7 @@
   "author": "step-security",
   "license": "MIT",
   "devDependencies": {
-    "@types/node": "^24.0.0",
+    "@types/node": "^26.5.1",
     "@vercel/ncc": "^0.45.0",
     "typescript": "^5.9.3"
   },
